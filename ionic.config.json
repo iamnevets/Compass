@@ -1,0 +1,7 @@
+{
+  "name": "Compass",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
